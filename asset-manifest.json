@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Sushma-Portfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/Sushma-Portfolio/static/js/main.c2f53faf.js",
+    "main.js": "/Sushma-Portfolio/static/js/main.1ca9b731.js",
     "index.html": "/Sushma-Portfolio/index.html",
-    "main.c2f53faf.js.map": "/Sushma-Portfolio/static/js/main.c2f53faf.js.map"
+    "main.1ca9b731.js.map": "/Sushma-Portfolio/static/js/main.1ca9b731.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.c2f53faf.js"
+    "static/js/main.1ca9b731.js"
   ]
 }
