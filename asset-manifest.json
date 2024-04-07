@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sushma-Portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/Sushma-Portfolio/static/js/main.04106cc6.js",
+    "static/js/453.3b3b6d5f.chunk.js": "/Sushma-Portfolio/static/js/453.3b3b6d5f.chunk.js",
+    "static/media/logo.svg": "/Sushma-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sushma-Portfolio/index.html",
+    "main.f855e6bc.css.map": "/Sushma-Portfolio/static/css/main.f855e6bc.css.map",
+    "main.04106cc6.js.map": "/Sushma-Portfolio/static/js/main.04106cc6.js.map",
+    "453.3b3b6d5f.chunk.js.map": "/Sushma-Portfolio/static/js/453.3b3b6d5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.04106cc6.js"
+  ]
+}
